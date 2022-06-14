@@ -1,0 +1,2 @@
+insert into users(nama, username, password, role) values
+('Admin','admin','$2y$10$.wt611PAINPB8YdvhQXYWOdpcJ1yd5lORGrUfuC5Z3NnttTmuUOZi', 'superadmin');
